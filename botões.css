@@ -1,0 +1,32 @@
+/* ... outros estilos ... */
+
+section#products {
+  /* ... estilos existentes ... */
+}
+
+section#products ul {
+  /* ... estilos existentes ... */
+}
+
+section#products li {
+  /* ... estilos existentes ... */
+}
+
+section#products button {
+  border: none;
+  background-color: #cc0000;
+  color: #fff;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 50px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease;
+}
+
+section#products button:hover {
+  background-color: #ff4444;
+}
+
+/* ... outros estilos ... */
