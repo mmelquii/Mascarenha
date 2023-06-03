@@ -2,17 +2,16 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #e99494;
-  color: #333333;
+  background-color: rgb(246, 232, 234);
+  color: rgb(34, 24, 28);
 }
 
 header {
   position:relative;
-  background-color: #CC0000;
-  color: #FFFFFF;
+  background-color: rgb(186, 31, 51);
+  color: rgb(246, 232, 234);
   padding: 30px;
   text-align: center;
-
 }
 
 h1 {
@@ -27,7 +26,7 @@ nav {
 }
 
 nav a {
-  color: #FFFFFF;
+  color: rgb(246, 232, 234);
   text-decoration: none;
   margin-right: 10px;
   font-weight: bold;
@@ -35,7 +34,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #FFCCCC;
+  color: rgb(34, 24, 28);
 }
 
 section {
@@ -44,7 +43,7 @@ section {
 }
 
 section h2 {
-  color: #CC0000;
+  color: rgb(241, 48, 48);
   margin-top: 0;
   margin-bottom: 20px;
 }
@@ -61,7 +60,7 @@ section li {
 section a {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #eb5757;
+  background-color: rgb(241, 48, 48);
   color: #FFFFFF;
   text-decoration: none;
   border-radius: 30px;
@@ -69,11 +68,11 @@ section a {
 }
 
 section a:hover {
-  background-color: #FF3333;
+  background-color: rgb(90, 0, 1);
 }
 
 footer {
-  background-color: #CC0000;
+  background-color: rgb(186, 31, 51);
   color: #FFFFFF;
   padding: 20px;
   text-align: center;
@@ -93,3 +92,6 @@ footer {
 .intro-text h2 {
   font-size: 32px;
 }
+
+/*menu lateral */
+
